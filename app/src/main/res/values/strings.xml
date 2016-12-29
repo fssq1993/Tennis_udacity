@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tennis</string>
+    <string name="initial_score">0</string>
+    <string name="first_button">Win Point</string>
+    <string name="second_button">Double Fault</string>
+    <string name="reset">reset</string>
+    <string name="player_a">Player A</string>
+    <string name="player_b">Player B</string>
+    <string name="bander_description">Bander</string>
+</resources>
